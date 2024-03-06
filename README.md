@@ -1,3 +1,3 @@
-# moonlink.js-lyrics
+# Moonlink.js-lyrics
 
-This repository is for a plugin for moonlink.js to support a "lyrics.kt" plugin from lavalink
+A [moonlink.js](https://github.com/Ecliptia/moonlink.js) plugin for lyrics support, using either the `lyrics.kt` plugin from [Lavalink](https://github.com/lavalink-devs/Lavalink), or [NodeLink](https://github.com/PerformanC/NodeLink)'s native lyrics loading.
